@@ -1,0 +1,14 @@
+.ellipsisWrapper {
+  width: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.ellipsisWrapper div {
+  flex: 0 1 auto;
+  width: 5px;
+  height: 5px;
+  background-color: white;
+  border-radius: 50%;
+}

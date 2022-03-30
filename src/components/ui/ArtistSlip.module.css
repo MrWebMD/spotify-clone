@@ -1,0 +1,23 @@
+.artistImage {
+  height: 80px;
+  width: 80px;
+  background-image: url(../../assets/images/artistPlaceholder.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.slip {
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+  background: linear-gradient(
+    90deg,
+    rgba(14, 14, 14, 1) 0%,
+    rgba(56, 56, 56, 1) 100%
+  );
+}
+.slip h3 {
+  font-size: 18px;
+  /* padding:20px; */
+  padding-left:20px;
+}

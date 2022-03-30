@@ -1,0 +1,5 @@
+.navWrapper {
+  font-weight: 500;
+  padding-top:30px !important;
+  color:var(--theme-ui-noeyesore);
+}

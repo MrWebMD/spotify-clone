@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d8f1bc41.css",
+    "main.js": "./static/js/main.3b269509.js",
+    "static/media/artistPlaceholder.png": "./static/media/artistPlaceholder.279c60de3af3324fc314.png",
+    "static/media/songCover.png": "./static/media/songCover.7999a71513d22a1305c4.png",
+    "static/media/bannerAd2.png": "./static/media/bannerAd2.3e21e98231c4d162b0d7.png",
+    "static/media/bannerAd.png": "./static/media/bannerAd.5a16632508ffa1445562.png",
+    "static/media/stiff-placeholder.png": "./static/media/stiff-placeholder.8f3a5e1f04cc9c52fe6b.png",
+    "index.html": "./index.html",
+    "main.d8f1bc41.css.map": "./static/css/main.d8f1bc41.css.map",
+    "main.3b269509.js.map": "./static/js/main.3b269509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f1bc41.css",
+    "static/js/main.3b269509.js"
+  ]
+}

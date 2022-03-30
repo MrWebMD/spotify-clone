@@ -1,0 +1,24 @@
+.activityPanel {
+  position:relative;
+}
+.activityPanel p {
+  font-size:13px;
+  font-weight:500;
+  color: var(--theme-ui-noeyesore);
+  line-height:23px;
+}
+.activityPanel button {
+  margin: 0 auto;
+  display:block;
+}
+.activityPanel img {
+  width:60%;
+  margin-top:15px;
+}
+.header{
+  display:flex;
+}
+
+.header i {
+  color:var(--theme-ui-noeyesore);
+}

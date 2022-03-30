@@ -1,0 +1,12 @@
+:root {
+  --theme-ui-noeyesore:#c7c5c5;
+}
+::-webkit-scrollbar {
+  width: 14px;
+  height:10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #75736f;
+  /* border-radius: 10px; */
+  /* margin:1px; */
+}
